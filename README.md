@@ -1,8 +1,39 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+### Hi there 👋 I'm Denakpo Agba!
+
+A self-taught and passionate front-end developer with a love for crafting engaging and user-friendly web experiences. Originally from Togo, West Africa, my journey into the digital world began with a childhood curiosity about how things work, much like taking apart toys to understand their inner mechanisms.
+
+Currently honing my skills as a Software Apprentice at Flushing-Tech, I'm eager to contribute to meaningful projects and continuously expand my knowledge in the ever-evolving landscape of web development.
+
+**What I'm focused on right now:**
+
+* Building robust and responsive user interfaces with **HTML**, **CSS**, and **JavaScript**.
+* Exploring the power and flexibility of **React** and modern JavaScript frameworks.
+* Developing server-side applications and APIs with **Node.js** and **Next.js**.
+* Practicing version control and collaboration using **Git** and **GitHub**.
+
+**My Portfolio:**
+
+Check out my portfolio website [link to your portfolio website here] to see some of the projects I've been working on, including:
+
+* **Image Search Engine:** A web application leveraging the Unsplash API.
+* **Barber Shop Website:** A responsive design for a local business.
+* **Calculator & Digital Clock:** Fundamental projects built with core web technologies.
+
+**Beyond the code:**
+
+When I'm not immersed in development, you can find me exploring the outdoors through hiking or dreaming about my future adventures, which include visiting every continent, climbing Mount Everest, and even swimming with sharks! I also have a soft spot for German Shepherds and am looking forward to welcoming one into my life soon. My personal philosophy is rooted in stoicism, valuing discipline, simplicity, and getting things done.
+
+**Future Goals:**
+
+By the end of this year, I'm excited to launch my own company focused on creating a mobile app for foodies, fitness enthusiasts, and travelers – blending my technical skills with my personal interests.
+
+**Let's connect!**
+
+* [Link to your LinkedIn profile]
+* [Link to your Twitter/X profile]
+* [Link to your Instagram profile]
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. I'm always eager to learn and connect with fellow developers!
 
 
 # 💻 Tech Stack:
