@@ -1,25 +1,40 @@
-### Hi there 👋 I'm Denakpo Agba!
+<h1 align="center">Hi 👋, I'm Denakpo Gerard Agba</h1>
+<h3 align="center">A tech adventurer from Togo, West Africa</h3>
 
-A self-taught and passionate front-end developer with a love for crafting engaging and user-friendly web experiences. Originally from Togo, West Africa, my journey into the digital world began with a childhood curiosity about how things work, much like taking apart toys to understand their inner mechanisms.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agbagerard&label=Profile%20views&color=0e75b6&style=flat" alt="agbagerard" /> </p>
 
-Currently honing my skills as a Software Apprentice at Flushing-Tech, I'm eager to contribute to meaningful projects and continuously expand my knowledge in the ever-evolving landscape of web development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agbagerard" alt="agbagerard" /></a> </p>
 
-**What I'm focused on right now:**
+<p align="left"> <a href="https://twitter.com/gerard78194374" target="blank"><img src="https://img.shields.io/twitter/follow/gerard78194374?logo=twitter&style=for-the-badge" alt="gerard78194374" /></a> </p>
 
-* Building robust and responsive user interfaces with **HTML**, **CSS**, and **JavaScript**.
-* Exploring the power and flexibility of **React** and modern JavaScript frameworks.
-* Developing server-side applications and APIs with **Node.js** and **Next.js**.
-* Practicing version control and collaboration using **Git** and **GitHub**.
+- 🔭 I’m currently working on [meal planner app](https://github.com/agbagerard/meal_planner_app)
 
-**Beyond the code:**
+- 🌱 I’m currently learning **App development, AI and anything related**
 
-When I'm not immersed in development, you can find me exploring the outdoors through hiking or dreaming about my future adventures, which include visiting every continent, climbing Mount Everest, and even swimming with sharks! I also have a soft spot for German Shepherds and am looking forward to welcoming one into my life soon. My personal philosophy is rooted in stoicism, valuing discipline, simplicity, and getting things done.
+- 👨‍💻 All of my projects are available at [https://github.com/agbagerard](https://github.com/agbagerard)
 
-**Future Goals:**
+- 📝 I regularly write articles on [https://agbagerard.github.io/](https://agbagerard.github.io/)
 
-By the end of this year, I'm excited to launch my own company focused on creating a mobile app for foodies, fitness enthusiasts, and travelers – blending my technical skills with my personal interests.
+- 📫 How to reach me **agbagerard@gmail.com**
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. I'm always eager to learn and connect with fellow developers!
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gerard78194374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gerard78194374" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/denakpo-agba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denakpo-agba" height="30" width="40" /></a>
+<a href="https://instagram.com/agbagerard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agbagerard" height="30" width="40" /></a>
+<a href="/https://agbagerard.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agbagerard.github.io/feed.xml" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agbagerard&show_icons=true&locale=en&layout=compact" alt="agbagerard" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agbagerard&show_icons=true&locale=en" alt="agbagerard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agbagerard&" alt="agbagerard" /></p>
+
 
 
 # 💻 Tech Stack:
