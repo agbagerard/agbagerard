@@ -29,11 +29,11 @@
 <a href="/https://agbagerard.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agbagerard.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agbagerard&theme=transparent&show_icons=true&locale=en&layout=compact" alt="agbagerard" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agbagerard&theme=transparent&show_icons=true&locale=en&layout=compact&card_width=500" alt="agbagerard" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agbagerard&theme=transparent&show_icons=true&locale=en" alt="agbagerard" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=agbagerard&theme=transparent&show_icons=true&locale=en&card_width=500" alt="agbagerard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agbagerard&theme=transparent" alt="agbagerard" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agbagerard&theme=transparent&card_width=500" alt="agbagerard" /></p>
 
 
 
