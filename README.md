@@ -19,6 +19,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This is my first blog post](https://agbagerard.github.io/2025/05/08/my-first-blog-post.html)
+- [Privacy Policy for Meal Planner App](https://agbagerard.github.io/2025/05/08/privacy-policy.html)
+- [Blog Post Title From First Header](https://agbagerard.github.io/2021/03/08/blog-post-title-from-file-name.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
