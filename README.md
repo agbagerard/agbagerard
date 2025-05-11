@@ -13,13 +13,14 @@
 
 - 📫 How to reach me **agbagerard@gmail.com**
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [This is my first blog post](https://agbagerard.github.io/2025/05/08/my-first-blog-post.html)
 - [Privacy Policy for Meal Planner App](https://agbagerard.github.io/2025/05/08/privacy-policy.html)
 - [Blog Post Title From First Header](https://agbagerard.github.io/2021/03/08/blog-post-title-from-file-name.html)
 <!-- BLOG-POST-LIST:END -->
 
+# STATS
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
